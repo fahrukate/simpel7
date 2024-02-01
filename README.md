@@ -7,9 +7,9 @@ pkg install git
 
 pkg install play-audio
 
-pip install -r ewe.txt
-
 git clone https://github.com/fahrukate/simpel7
+
+pip install -r ewe.txt
 
 cd simpel7
 
