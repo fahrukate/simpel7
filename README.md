@@ -1,5 +1,4 @@
-# ↓↓↓↓↓
-
+# ↓↓↓↓↓↓↓
 pkg update && pkg upgrade
 
 pkg install python
@@ -15,5 +14,4 @@ git clone https://github.com/fahrukate/simpel7
 cd simpel7
 
 python run.py
-
-# ↑↑↑↑↑
+# ↑↑↑↑↑↑↑
